@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>25</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>cube</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/puzzle/</ImageTemplate>
+            <ImageTemplateName>Puzzle</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#09A4CB</TemplateColor>
+            <TemplateFont>Didact Gothic</TemplateFont>
+            <TemplateName>puzzle</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/actual.jpg</url>
+                <title>actual</title>
+                <filesize>31312</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/ara.jpg</url>
+                <title>ara</title>
+                <filesize>7528</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/black.jpg</url>
+                <title>black</title>
+                <filesize>8687</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/cel.jpg</url>
+                <title>cel</title>
+                <filesize>7616</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/cel1.jpg</url>
+                <title>cel1</title>
+                <filesize>7698</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/cel2.jpg</url>
+                <title>cel2</title>
+                <filesize>8431</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/cl.jpg</url>
+                <title>cl</title>
+                <filesize>54909</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/evolucion.jpg</url>
+                <title>evolucion</title>
+                <filesize>8754</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/gamaalta.jpg</url>
+                <title>gamaalta</title>
+                <filesize>95436</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/esqueleto/imagenes/gamabaja.jpg</url>
+                <title>gamabaja</title>
+                <filesize>11180</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
